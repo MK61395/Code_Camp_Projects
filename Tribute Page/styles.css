@@ -13,4 +13,21 @@ h1 {
   text-align: center;
   margin-top: 0;
 }
+h2 {
+  text-align: center;
+  color: #555;
+}
+
+figure {
+  text-align: center;
+  margin: 30px 0;
+}
+
+#image {
+  max-width: 100%;
+  height: auto;
+  display:block;
+  margin:auto;
+  border-radius: 50%;
+}
 
