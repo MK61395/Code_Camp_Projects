@@ -30,4 +30,18 @@ figure {
   margin:auto;
   border-radius: 50%;
 }
+#img-caption {
+  margin-top: 10px;
+  font-style: italic;
+  color: #777;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 30px;
+}
+
+#tribute-info {
+  padding: 0 20px;
+}
 
