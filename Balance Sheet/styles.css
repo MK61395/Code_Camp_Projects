@@ -146,5 +146,7 @@ tr.data td {
   text-align: right;
 }
 
-tr.data
+tr.data td:last-of-type{
+  padding-right:0.5rem;
+}
 
