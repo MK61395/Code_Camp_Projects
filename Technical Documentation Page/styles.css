@@ -28,3 +28,17 @@
   margin-left: 220px;
   padding: 20px;
 }
+
+.main-section {
+  margin-bottom: 30px;
+}
+
+.main-section header {
+  font-size: 1.2rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.main-section p {
+  margin-bottom: 10px;
+}
