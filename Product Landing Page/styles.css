@@ -97,3 +97,18 @@ h2 {
   cursor: pointer;
 }
 
+/* Footer styles */
+footer {
+  background-color: #333;
+  padding: 20px;
+  color: #fff;
+  text-align: center;
+}
+
+/* Media queries */
+@media (max-width: 768px) {
+  #nav-bar {
+    justify-content: center;
+  }
+
+
