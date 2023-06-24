@@ -12,3 +12,17 @@ body {
   color: #fff;
 }
 
+#header-img {
+  height: 40px;
+  width: auto;
+}
+
+
+#nav-bar {
+  position: fixed;
+  top: 0;
+  width: 100%;
+  background-color: #f1f1f1;
+  /* Add other styling rules */
+}
+
