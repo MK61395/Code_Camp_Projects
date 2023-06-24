@@ -111,4 +111,7 @@ footer {
     justify-content: center;
   }
 
-
+.pricing-card {
+    flex-basis: 100%;
+     20px;
+  }
